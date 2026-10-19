@@ -1,0 +1,11 @@
+diff --git a/README.md b/README.md
+--- a/README.md
++++ b/README.md
+@@ -1,6 +1,6 @@
+ # Tiny greeting
+ 
+ Requires Python 3.10+. Run from the repository root:
+-python app.py
++python hello.py
+ 
+ Expected first result: Hello, newcomer!

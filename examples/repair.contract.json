@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "phase": "repair",
+  "steps": [{
+    "id": "greeting",
+    "source": {"path": "README.md", "line": 4, "text": "python hello.py"},
+    "argv": ["python", "hello.py"],
+    "cwd": ".",
+    "assert_stdout": "Hello, newcomer!"
+  }]
+}
