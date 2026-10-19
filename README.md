@@ -66,4 +66,8 @@ Other tools address onboarding and documentation audits, including Browserbase's
 
 Reviewed 2026-10-19: [Claude Code skills documentation](https://code.claude.com/docs/en/skills) for installation and invocation controls; [Anthropic's Agent Skills engineering article](https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills) for the skill-plus-focused-resources structure. Implementation and synthetic examples here are original.
 
-License selection is pending the repository owner's decision; no open-source license grant is implied. No adoption, star or download claims are made.
+MIT, see [LICENSE](LICENSE). No adoption, star or download claims are made.
+
+---
+
+Built by Kamesh Jindal at [OMX Digital](https://omxdigital.ai). Part of the [OMX Claude Skills toolkit](https://github.com/OmxKamesh/claude-skills-toolkit). Need this set up for your business? [kamesh@omxdigital.ai](mailto:kamesh@omxdigital.ai)
